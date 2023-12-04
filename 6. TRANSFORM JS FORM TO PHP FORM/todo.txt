@@ -1,0 +1,6 @@
+- what are the security issues in this website ?
+    => client can see password and protected content
+The user can see the password when entering the password box because the input box type is text. The password when entered will be found
+
+- how to correct using PHP
+The correct usage in PHP is that we have to convert the input cell type to password => type="password"
